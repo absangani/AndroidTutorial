@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tutorial06</string>
+    <string name="activity">login page</string>
+    <string name="label_username">Username</string>
+
+    <string name="label_password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_page">Login</string>
+    <string name="welcome_user">"Welcome "</string>
+
+    <string name="hnt_first_name">Enter First Name</string>
+    <string name="hnt_last_name">Enter Last Name</string>
+    <string name="hnt_username">Enter Email id</string>
+    <string name="hnt_Password">Enter Password</string>
+    <string name="akshay">Akshay</string>
+    <string name="sangnai">Sangnai</string>
+    <string name="gmail">akshay12@gmail.com</string>
+    <string name="password">123456789</string>
+    <string name="switch_txt_branch">Branch CE/IT</string>
+    <string name="btnR_male">Male</string>
+    <string name="btnR_female">Female</string>
+    <string name="spnr_select_city">Select City</string>
+    <string name="check_status">Profile Status Active/Inactive</string>
+    <string name="btn_register">Register me</string>
+    <string name="txt_title_registration_page">Registration Page</string>
+    <string name="txt_display_page">Register you with this Detail : </string>
+    <string name="create_account">Create new account ..</string>
+    <string name="page_title_about">About</string>
+    <string name="btn_logout">Logout</string>
+
+    <string-array name="city_name">
+        <item>Select City</item>
+        <item>Surat</item>
+        <item>Rajkot</item>
+        <item>Jamnagar</item>
+    </string-array>
+</resources>

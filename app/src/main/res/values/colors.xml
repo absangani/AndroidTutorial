@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#757575</color> <!--00BCD4-->
+    <color name="colorPrimaryDark">#212121</color><!--0097A7-->
+    <color name="primary_light">#B2EBF2</color>
+    <color name="colorAccent">#00E676</color>
+    <color name="primary_text">#FFFFFF</color><!--212121-->
+    <color name="input_primary_text">#151515</color>
+    <color name="secondary_text">#BDBDBD</color><!--757575-->
+    <color name="input_secondary_text">#707070</color>
+    <color name="icons">#00BCD4</color>
+    <color name="divider">#0097A7</color>
+    <color name="error">#C3FF5252</color>
+</resources>
